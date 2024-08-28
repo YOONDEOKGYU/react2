@@ -27,4 +27,4 @@
 
 * Angular Universal  
 -> 정적 사이트 생성과 서버 사이드 렌더링 지원  
--> Nuxt나 Next와는 달리 구글에서 만듬s
+-> Nuxt나 Next와는 달리 구글에서 만듬
